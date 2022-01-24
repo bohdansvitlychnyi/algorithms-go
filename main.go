@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	bs "github.com/bohdansvitlychnyi/algorithms-go/binarySearch"
+	bs "algorithms-go/binarySearch"
 )
 
 func main() {
